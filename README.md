@@ -9,7 +9,9 @@ Let's look at some exploratory data!
 
 ![Header](https://github.com/khtaho/UFC_Predictor/blob/main/ag%20vs%20KOs%20WW.png "Header")
 
-Looking at this chart we can see the number of KOs by age for the welterweights. The fighters peak around the age of 27-28 for the most KOs.
+Looking at the chart above we can see the number of KOs by age for the welterweights. The fighters peak around the age of 27-28 for the most KOs.
+
+
 
 
 ![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sig%20strikes%20vs%20KOs%20all%20weights%202.png "Header")
