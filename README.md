@@ -12,7 +12,7 @@ Let's look at some exploratory data!
 Looking at this chart we can see the number of KOs by age for the welterweights. The fighters peak around the age of 27-28 for the most KOs.
 
 
-![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sig%20strikes%20vs%20KOs%20all%20weights.png "Header")
+![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sig%20strikes%20vs%20KOs%20all%20weights%202.png "Header")
 
 This chart is number of significant strikes by number of KOs for all the weight classes. The most number of KOs occur between 12 to 100 significant strikes. 
 
