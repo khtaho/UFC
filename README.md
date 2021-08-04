@@ -17,7 +17,7 @@ Looking at this chart we can see the number of KOs by age for the welterweights.
 This chart is number of significant strikes by number of KOs for all the weight classes. The most number of KOs occur between 12 to 100 significant strikes. 
 
 The machine learning model discovered the features that are significant to a fight outcome.
-The regression model will help predict future fight outcomes based on the fighters, date of the fight and weightclass.
+The regression model will help predict future fight outcomes based on the fighters, date of the fight and weightclass. 
 
 
 
