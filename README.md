@@ -8,6 +8,7 @@ The dataset uses all the historical fight statistics from the very first UFC to 
 Let's look at some exploratory data!
 
 ![Header](https://github.com/khtaho/UFC_Predictor/blob/main/ag%20vs%20KOs%20WW.png "Header")
+
 Looking at this chart we can see the number of KOs by age for the welterweights. The fighters peak around the age of 27-28 for the most KOs.
 
 
