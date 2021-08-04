@@ -5,7 +5,10 @@ The UFC is a very interesting sport and there has been some statistics collected
 
 The dataset uses all the historical fight statistics from the very first UFC to 2021. Every elbow, takedown, KO, submission, head shot, significant strike and otehr moves have been recorded and in the data set.  
 
-Looking at this chart we can see when
+Let's look at some exploratory data!
+
+![Header](https://github.com/khtaho/UFC_Predictor/blob/main/ag%20vs%20KOs%20WW.png "Header")
+Looking at this chart we can see the number of KOs by age for the welterweights. The fighters peak around the age of 27-28 for the most KOs.
 
 
 The machine learning model discovered the features that are significant to a fight outcome.
