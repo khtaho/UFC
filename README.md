@@ -30,5 +30,7 @@ The machine learning model used sklearn's random forest and discovered the featu
 
 The regression model will predict future fight outcomes with just the names of the fighters, date of the fight and the weightclass.
 
+![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sample%20output.png "Header")
 
+Above is the output of the model. The model predicts the probability of each fighter winning, the probability of the the method of winning, the names of the fighters and the predicted winner.
 
