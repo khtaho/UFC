@@ -18,8 +18,14 @@ Looking at the chart above we can see the number of KOs by age for the welterwei
 
 The chart above shows the number of significant strikes versus number of KOs for all the weight classes. The most number of KOs occur between 12 to 100 significant strikes. 
 
-The machine learning model discovered the features that are significant to a fight outcome.
-The regression model will help predict future fight outcomes based on the fighters, date of the fight and weightclass. 
+![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sub%20histogram.png "Header")
+
+The chart above shows the frequency of submissions at each round for  each weight class. The lightweights are the most talented submission artists.  Majority of submissions happen in the first round for most of the weight classes.
+
+### Machine Learning
+The machine learning model used sklearn's random forest and discovered the features that are significant to a fight outcome. Each weight class has different features that helped predict the outcome but the underlying theme for many of them were total strikes, number of head shots, significant strikes and percentage of significant strikes.
+
+The regression model will predict future fight outcomes with just the names of the fighters, date of the fight and the weightclass.
 
 
 
