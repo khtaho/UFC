@@ -37,3 +37,4 @@ The regression model will predict future fight outcomes with just the names of t
 
 Above is the output of the model. The model predicts the probability of each fighter winning, the probability of the the method of winning, the names of the fighters and the predicted winner. In this case the model predicted the outcome that matched the actual output!
 
+Click [here](https://github.com/khtaho/UFC_Predictor/blob/main/UFC%20Fight%20Predictor.ipynb) to view the Python code.
