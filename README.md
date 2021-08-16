@@ -1,5 +1,6 @@
-## UFC Fight Predictor
-![Header](https://github.com/khtaho/Projects/blob/main/ufc%20gloves_1.jpg "Header")
+# UFC Fight Predictor
+
+![Header](https://github.com/khtaho/UFC_Predictor/blob/main/ufc%20gloves_1.jpg "Header")
 
 The UFC is a very interesting sport and there has been some statistics collected on sport since it first appearred in the 1990s.  
 
@@ -25,13 +26,13 @@ The chart above shows the number of significant strikes versus number of KOs for
 The chart above shows the frequency of submissions at each round for  each weight class. The lightweights are the most talented submission artists.  Majority of submissions happen in the first round for most of the weight classes.
 
 
-### Machine Learning
+## Machine Learning
 The machine learning model used sklearn's random forest and discovered the features that are significant to a fight outcome. Each weight class has different features that helped predict the outcome but the underlying theme for many of them were total strikes, number of head shots, significant strikes and percentage of significant strikes.
 
 The regression model will predict future fight outcomes with just the names of the fighters, date of the fight and the weightclass.
 
 
-### Prediction
+## Prediction
 ![Header](https://github.com/khtaho/UFC_Predictor/blob/main/sample%20output3.png "Header")
 
 Above is the output of the model. The model predicts the probability of each fighter winning, the probability of the the method of winning, the names of the fighters and the predicted winner. In this case the model predicted the outcome that matched the actual output!
